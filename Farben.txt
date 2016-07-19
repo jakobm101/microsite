@@ -1,0 +1,30 @@
+COLOR PALETTE
+______________
+
+grey
+#EBE8EA
+
+Gold
+#CCC57B
+
+black
+#0B1123
+
+
+
+cyan
+#5EC6E8
+
+blue
+#1B77CF
+
+pink
+#F09DD5
+
+yellow
+#FEED8A
+
+dark grey
+#A19EA7
+
+https://www.behance.net/gallery/35316087/Local-Bliss
